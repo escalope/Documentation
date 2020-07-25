@@ -78,7 +78,7 @@ The following code will show the character positioned at the left side of the st
 
 ```javascript
 'show character e normal at left',
-'show character e normal at right with move transition 6s'
+'show character e normal at right with move transition duration 6s'
 ```
 
 ### End Animations
